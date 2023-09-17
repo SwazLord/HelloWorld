@@ -1,0 +1,11 @@
+{
+	"config": "airmobile",
+	"compilerOptions": {
+		"output": "out/main.swf",
+		"source-path": [
+			"src"
+		]
+	},
+	"mainClass": "Main",
+	"application": "src/Main-app.xml"
+}
